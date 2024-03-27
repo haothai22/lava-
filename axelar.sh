@@ -16,4 +16,4 @@ if [ $? -eq 0 ]; then
     echo "Axelar data fetched and saved to $OUTPUT_DIR/axelar.txt."
 else
     echo "Failed to fetch Axelar data."
-fi
+fi 
